@@ -210,10 +210,10 @@ The `queries.sql` file contains all SQL queries developed for this project. Each
    git clone https://github.com/yourusername/flipkart-sql-project.git
    ```
 2. **Set Up the Database**:
-   - Run the `schema.sql` script to set up tables and insert sample data.
+   - Run the `Schema.sql` script to set up tables and insert sample data.
 
 3. **Run Queries**:
-   - Execute each query in `queries.sql` to explore and analyze the data.
+   - Execute each query in above files to explore and analyze the data.
 
 ---
 
